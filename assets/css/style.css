@@ -1,0 +1,26 @@
+
+body {
+    font-family: "bangers", cursive;
+    background-image: url("../images/background.jpg");
+}
+
+#stats {
+    font-size: 30px;
+    text-shadow: 2px 2px black;
+
+}
+
+.headers {
+    font-size: 50px;
+    text-shadow: 2px 2px #FF0000;
+}
+
+#answer {
+    font-size: 100px; 
+    color: darkgreen; 
+   
+}
+
+#guess-div {
+    font-size: 50px; 
+}
